@@ -9,7 +9,7 @@ FitForge is a modern fitness and gym management application built with Flutter. 
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="50" alt="FitForge Home Screen"/>
+  <img src="WhatsApp Image 2026-10-12 at 20.00.14 (1).jpeg"/>
   &nbsp;&nbsp;
   <img src="WhatsApp Image 2026-10-12 at 20.00.14 (2).jpeg"/>
   &nbsp;&nbsp;

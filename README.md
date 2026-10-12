@@ -7,21 +7,24 @@ FitForge is a modern fitness and gym management application built with Flutter. 
 ---
 
 ## 📱 App Screenshots
-
 <p align="center">
-  <img src="WhatsApp Image 2026-10-12 at 20.00.14 (1).jpeg" width="50%"/>
-  &nbsp;&nbsp;
-  
-  <img src="WhatsApp Image 2026-10-12 at 20.00.15 (1).jpeg" width="50" alt="FitForge Settings Screen"/>
-    <img src="WhatsApp Image 2026-10-12 at 20.00.15 (1).jpeg" width="50" alt="FitForge Settings Screen"/>
-    <img src="WhatsApp Image 2026-10-12 at 20.00.16 (1).jpeg" width="50" alt="FitForge Settings Screen"/>
-    <img src="screenshots/settings.png" width="50" alt="FitForge Settings Screen"/>
-    <img src="screenshots/settings.png" width="50" alt="FitForge Settings Screen"/>
-    <img src="screenshots/settings.png" width="50" alt="FitForge Settings Screen"/>
+  <img src="WhatsApp%20Image%202026-10-12%20at%2020.00.14%20(1).jpeg" width="30%" alt="FitForge Screen 1"/>
+  &nbsp;
+  <img src="WhatsApp%20Image%202026-10-12%20at%2020.00.15%20(1).jpeg" width="30%" alt="FitForge Screen 2"/>
+  &nbsp;
+  <img src="WhatsApp%20Image%202026-10-12%20at%2020.00.16%20(1).jpeg" width="30%" alt="FitForge Screen 3"/>
 </p>
 
 <p align="center">
-  <em>Home Screen · Workout Screen · Settings Screen</em>
+  <img src="WhatsApp%20Image%202026-10-12%20at%2020.00.17%20(1).jpeg" width="30%" alt="FitForge Screen 4"/>
+  &nbsp;
+  <img src="WhatsApp%20Image%202026-10-12%20at%2020.00.17.jpeg" width="30%" alt="FitForge Screen 5"/>
+  &nbsp;
+  <img src="WhatsApp%20Image%202026-10-12%20at%2020.00.18%20(1).jpeg" width="30%" alt="FitForge Screen 6"/>
+</p>
+
+<p align="center">
+  <em>FitForge — Home · Workouts · Gym Packages · Profile · Membership · Settings</em>
 </p>
 
 > **Note:** Add your actual app screenshots to the `screenshots/` folder and use the same filenames shown above.
